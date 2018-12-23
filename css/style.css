@@ -43,7 +43,9 @@ figcaption {
   background: url(../images/white-wood.jpg) no-repeat center top;
   background-size: cover;
 }
-
+.light-fade {
+  
+}
 
 /*/////// MEDIA ////////*/
 
